@@ -153,7 +153,6 @@ a{
     border: solid 3px #004aad;
     color: #004aad;
     padding: 7px 17px;
-    transition: all 0.3s ease;
 }
 
 @media only screen and (max-width: 990px){
